@@ -44,3 +44,13 @@ Goal: Software Developer
 ## Purpose
 
 The goal of this assignment is to practice creating and running basic JavaScript files with Node.js.
+
+## Screenshots
+
+### `app.js`
+
+![Output of app.js](./Screenshot%202026-08-20%20at%209.38.20%E2%80%AFPM.png)
+
+### `introduction.js`
+
+![Output of introduction.js](./Screenshot%202026-08-20%20at%209.39.06%E2%80%AFPM.png)
