@@ -1,56 +1,33 @@
 # Assignment 3
 
-This assignment contains a couple of simple Node.js scripts that print messages to the console.
+This assignment demonstrates basic Node.js file system operations using the built-in `fs` module.
 
-## Files
+## What the script does
 
-- `app.js` - prints a basic Node.js greeting and a backend learning message
-- `introduction.js` - prints a short personal introduction
+The `index.js` file performs the following steps:
 
-## Requirements
+1. Creates a file named `student.txt`
+2. Writes student details into the file
+3. Reads the file content and prints it to the console
+4. Appends additional details
+5. Renames `student.txt` to `studentDetails.txt`
+6. Deletes the renamed file
 
-- Node.js installed on your machine
+## How to run
 
-## How to Run
-
-From the `Assignment3` folder, run either file with Node:
-
-```bash
-node app.js
-```
+Make sure Node.js is installed, then run:
 
 ```bash
-node introduction.js
+node index.js
 ```
 
-## Expected Output
+## Output
 
-### `app.js`
+The screenshot below shows the terminal output produced by the script:
 
-```text
-Hello, Node.js!
-I am learning backend development
-```
+![Assignment 4 output](./output.png)
 
-### `introduction.js`
+## Notes
 
-```text
-Name: Vishal
-Education: B.Tech CSE (AI/ML)
-Current Learning: Node.js
-Goal: Software Developer
-```
-
-## Purpose
-
-The goal of this assignment is to practice creating and running basic JavaScript files with Node.js.
-
-## Screenshots
-
-### `app.js`
-
-![Output of app.js](./Screenshot%202026-08-20%20at%209.38.20%E2%80%AFPM.png)
-
-### `introduction.js`
-
-![Output of introduction.js](./Screenshot%202026-08-20%20at%209.39.06%E2%80%AFPM.png)
+- The file is deleted at the end of the script, so no text file remains after execution.
+- The screenshot in `output.png` shows the full flow of file creation, update, rename, and deletion.
