@@ -23,7 +23,7 @@ function responseTimeLogger(req, res, next) {
 app.use(responseTimeLogger);
 
 
-app.get("/home", (req, res) => {
+app.get(["/", "/home"], (req, res) => {
     res.send("Home Page");
 });
 
