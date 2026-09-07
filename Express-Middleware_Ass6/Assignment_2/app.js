@@ -14,7 +14,7 @@ function logger(req, res, next) {
 app.use(logger);
 
 
-app.get("/home", (req, res) => {
+app.get(["/", "/home"], (req, res) => {
     res.send("Welcome to Home Page");
 });
 
