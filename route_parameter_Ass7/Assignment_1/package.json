@@ -1,0 +1,12 @@
+{
+  "name": "assignment-1-route-parameters",
+  "version": "1.0.0",
+  "description": "Express.js Route Parameters Assignment",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
