@@ -1,0 +1,13 @@
+{
+  "name": "update-delete-users-express-mongodb-mongoose",
+  "version": "1.0.0",
+  "description": "Question 2: Update and Delete Users Using Express, MongoDB and Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}

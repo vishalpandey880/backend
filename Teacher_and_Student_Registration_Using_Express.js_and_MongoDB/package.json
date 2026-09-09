@@ -1,0 +1,14 @@
+{
+  "name": "teacher-and-student-registration-express-mongodb",
+  "version": "1.0.0",
+  "description": "Assignment: Teacher and Student Registration Using Express.js and MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
+  }
+}

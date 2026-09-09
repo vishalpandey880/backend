@@ -350,9 +350,14 @@ Server starts at: `http://localhost:3000`
 
 ---
 
-## 👨‍💻 Author
+---
 
-**Vishal Pandey** — Backend Development Assignment 7 (Route & Query Parameters)
+## 👨‍💻 Student Details
+
+* **Name:** Vishal
+* **Roll Number:** [150096725178]
+* **Course:** Backend Development (Node.js & Express.js)
+* **Assignment:** Assignment 7 — Dynamic Routing (Route Parameters & Query Parameters)
 
 ---
 
