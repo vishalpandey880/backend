@@ -1,5 +1,9 @@
 # Assignment 12: User Registration, Login and JWT Authentication
 
+**Name:** Vishal Pandey  
+**Roll No:** 150096725178  
+**Subject:** Backend Development
+
 This project implements a secure authentication system using Node.js, Express.js, MongoDB with Mongoose, bcrypt, JWT, and dotenv.
 
 ## Features
